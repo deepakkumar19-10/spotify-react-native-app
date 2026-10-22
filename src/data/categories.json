@@ -1,0 +1,50 @@
+[
+  {
+    "id": "c1",
+    "name": "Hindi Hits",
+    "color": "#E13300",
+    "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c2",
+    "name": "Punjabi Pop",
+    "color": "#1E3264",
+    "imageUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c3",
+    "name": "Haryanvi Swag",
+    "color": "#E8115B",
+    "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c4",
+    "name": "Running & Cardio",
+    "color": "#B02897",
+    "imageUrl": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c5",
+    "name": "Gym Motivation",
+    "color": "#FF6437",
+    "imageUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c6",
+    "name": "Bhakti & Spiritual",
+    "color": "#8D67AB",
+    "imageUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c7",
+    "name": "Bollywood Romance",
+    "color": "#E91429",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=300&h=300&fit=crop"
+  },
+  {
+    "id": "c8",
+    "name": "Desi Lo-Fi",
+    "color": "#148A08",
+    "imageUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=300&h=300&fit=crop"
+  }
+]

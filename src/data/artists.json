@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ar1",
+    "name": "Arijit Singh",
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&h=400&fit=crop",
+    "monthlyListeners": 42800000,
+    "verified": true,
+    "bio": "The soulful undisputed voice of Indian cinema. Master of heart-touching romantic and acoustic Bollywood masterpieces.",
+    "dominantColor": "#b45309"
+  },
+  {
+    "id": "ar2",
+    "name": "Sidhu Moosewala",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&h=400&fit=crop",
+    "monthlyListeners": 29500000,
+    "verified": true,
+    "bio": "Global Punjabi icon and legendary lyricist known for fearless anthems like 295, Chorni, and Legend.",
+    "dominantColor": "#1e3a8a"
+  },
+  {
+    "id": "ar3",
+    "name": "Diljit Dosanjh",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200&h=400&fit=crop",
+    "monthlyListeners": 25100000,
+    "verified": true,
+    "bio": "International superstar bringing Punjabi music to Coachella, stadiums, and global charts worldwide.",
+    "dominantColor": "#c2410c"
+  },
+  {
+    "id": "ar4",
+    "name": "Renuka Panwar",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1200&h=400&fit=crop",
+    "monthlyListeners": 15200000,
+    "verified": true,
+    "bio": "The sensational queen of Haryanvi folk pop, record-breaking vocalist behind 52 Gaj Ka Daman.",
+    "dominantColor": "#be185d"
+  },
+  {
+    "id": "ar5",
+    "name": "Masoom Sharma",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&h=400&fit=crop",
+    "monthlyListeners": 12400000,
+    "verified": true,
+    "bio": "The high-voltage powerhouse of Haryanvi rap, raw desi swag, and energetic festival hits.",
+    "dominantColor": "#047857"
+  },
+  {
+    "id": "ar6",
+    "name": "AP Dhillon",
+    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&h=400&fit=crop",
+    "monthlyListeners": 20100000,
+    "verified": true,
+    "bio": "Architect of the global Brown Munde wave, blending 80s synth wave with modern Punjabi melodies.",
+    "dominantColor": "#4338ca"
+  },
+  {
+    "id": "ar7",
+    "name": "Hariharan & Anuradha",
+    "image": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&h=400&fit=crop",
+    "monthlyListeners": 18400000,
+    "verified": true,
+    "bio": "Sacred devotional pioneers known for immortal recitations of Shree Hanuman Chalisa, Gayatri Mantra, and Aarti Sangrah.",
+    "dominantColor": "#b45309"
+  },
+  {
+    "id": "ar8",
+    "name": "Titan Beast Fuel",
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=1200&h=400&fit=crop",
+    "monthlyListeners": 9400000,
+    "verified": true,
+    "bio": "High-tempo 160 BPM running anthems and high-adrenaline motivation tracks crafted for champions and athletes.",
+    "dominantColor": "#e11d48"
+  },
+  {
+    "id": "ar9",
+    "name": "Shankar Mahadevan",
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=1200&h=400&fit=crop",
+    "monthlyListeners": 16700000,
+    "verified": true,
+    "bio": "Padma Shri vocalist and legendary musical genius behind the fierce Shiv Tandav Stotram and Breathless.",
+    "dominantColor": "#0284c7"
+  },
+  {
+    "id": "ar10",
+    "name": "Karan Aujla",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+    "bannerImage": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200&h=400&fit=crop",
+    "monthlyListeners": 23600000,
+    "verified": true,
+    "bio": "Geetan Di Machine. One of Punjabi music's most decorated songwriters and chart-topping performers.",
+    "dominantColor": "#7c3aed"
+  }
+]

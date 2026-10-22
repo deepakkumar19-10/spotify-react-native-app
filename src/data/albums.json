@@ -1,0 +1,158 @@
+[
+  {
+    "id": "al1",
+    "title": "Brahmāstra & Romantic Hits",
+    "artistId": "ar1",
+    "artistName": "Arijit Singh",
+    "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t1",
+      "t2",
+      "t3",
+      "t4",
+      "t5",
+      "t6"
+    ],
+    "dominantColor": "#b45309",
+    "type": "album"
+  },
+  {
+    "id": "al2",
+    "title": "Moosetape Forever",
+    "artistId": "ar2",
+    "artistName": "Sidhu Moosewala",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=400&fit=crop",
+    "year": 2023,
+    "trackIds": [
+      "t7",
+      "t8",
+      "t9",
+      "t10"
+    ],
+    "dominantColor": "#1e3a8a",
+    "type": "album"
+  },
+  {
+    "id": "al3",
+    "title": "MoonChild & G.O.A.T.",
+    "artistId": "ar3",
+    "artistName": "Diljit Dosanjh",
+    "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t11",
+      "t12",
+      "t13"
+    ],
+    "dominantColor": "#c2410c",
+    "type": "album"
+  },
+  {
+    "id": "al4",
+    "title": "Haryanvi Dholak & Swag",
+    "artistId": "ar4",
+    "artistName": "Renuka Panwar & Masoom Sharma",
+    "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t14",
+      "t15",
+      "t16",
+      "t17",
+      "t18"
+    ],
+    "dominantColor": "#be185d",
+    "type": "album"
+  },
+  {
+    "id": "al5",
+    "title": "Beast Mode Cardio 160 BPM",
+    "artistId": "ar8",
+    "artistName": "Titan Beast Fuel",
+    "coverUrl": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t19",
+      "t20",
+      "t21",
+      "t22"
+    ],
+    "dominantColor": "#e11d48",
+    "type": "album"
+  },
+  {
+    "id": "al6",
+    "title": "Unstoppable Motivation & Gym Drive",
+    "artistId": "ar8",
+    "artistName": "Titan Beast Fuel",
+    "coverUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t23",
+      "t24",
+      "t25",
+      "t26"
+    ],
+    "dominantColor": "#f97316",
+    "type": "album"
+  },
+  {
+    "id": "al7",
+    "title": "Shree Hanuman & Krishna Bhakti",
+    "artistId": "ar7",
+    "artistName": "Hariharan & Anuradha",
+    "coverUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t27",
+      "t28",
+      "t29",
+      "t30"
+    ],
+    "dominantColor": "#d97706",
+    "type": "album"
+  },
+  {
+    "id": "al8",
+    "title": "Shiv Shakti Chants & Stotram",
+    "artistId": "ar9",
+    "artistName": "Shankar Mahadevan",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t31",
+      "t32",
+      "t33"
+    ],
+    "dominantColor": "#0284c7",
+    "type": "album"
+  },
+  {
+    "id": "al9",
+    "title": "Brown Munde Chronicles",
+    "artistId": "ar6",
+    "artistName": "AP Dhillon",
+    "coverUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&h=400&fit=crop",
+    "year": 2023,
+    "trackIds": [
+      "t34",
+      "t35"
+    ],
+    "dominantColor": "#4338ca",
+    "type": "album"
+  },
+  {
+    "id": "al10",
+    "title": "Making Memories & Winning Speech",
+    "artistId": "ar10",
+    "artistName": "Karan Aujla",
+    "coverUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+    "year": 2024,
+    "trackIds": [
+      "t36"
+    ],
+    "dominantColor": "#7c3aed",
+    "type": "single"
+  }
+]

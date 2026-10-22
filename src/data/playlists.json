@@ -1,0 +1,130 @@
+[
+  {
+    "id": "p1",
+    "title": "Hindi Hits & Bollywood Butter",
+    "description": "The biggest Bollywood anthems, heartfelt romantic melodies, and trending Hindi tracks.",
+    "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&h=400&fit=crop",
+    "creator": "Spotify",
+    "trackIds": [
+      "t1",
+      "t2",
+      "t3",
+      "t4",
+      "t5",
+      "t6"
+    ],
+    "dominantColor": "#b45309"
+  },
+  {
+    "id": "p2",
+    "title": "Punjabi 101 & Desi Hip-Hop",
+    "description": "High-octane Punjabi bangers from Sidhu Moosewala, Diljit Dosanjh, AP Dhillon, and Karan Aujla.",
+    "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&h=400&fit=crop",
+    "creator": "Spotify",
+    "trackIds": [
+      "t7",
+      "t8",
+      "t9",
+      "t10",
+      "t11",
+      "t12",
+      "t13",
+      "t34",
+      "t35",
+      "t36"
+    ],
+    "dominantColor": "#1e3a8a"
+  },
+  {
+    "id": "p3",
+    "title": "Haryanvi Swag & Ragini Top 20",
+    "description": "Electrifying folk dholak beats, Renuka Panwar sensations, and Masoom Sharma desi power.",
+    "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
+    "creator": "Spotify",
+    "trackIds": [
+      "t14",
+      "t15",
+      "t16",
+      "t17",
+      "t18"
+    ],
+    "dominantColor": "#be185d"
+  },
+  {
+    "id": "p4",
+    "title": "Cardio & Running 160 BPM",
+    "description": "High-tempo driving rhythms precision-tuned for 5K runs, sprints, and treadmill intervals.",
+    "coverUrl": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=400&h=400&fit=crop",
+    "creator": "Spotify",
+    "trackIds": [
+      "t19",
+      "t20",
+      "t21",
+      "t22"
+    ],
+    "dominantColor": "#e11d48"
+  },
+  {
+    "id": "p5",
+    "title": "Beast Mode Motivation & Gym Drive",
+    "description": "Heavy pump mentality, champion speeches, and explosive motivation for max lifts.",
+    "coverUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "creator": "Spotify",
+    "trackIds": [
+      "t23",
+      "t24",
+      "t25",
+      "t26"
+    ],
+    "dominantColor": "#f97316"
+  },
+  {
+    "id": "p6",
+    "title": "Shree Bhakti, Aarti & Divine Peace",
+    "description": "Shree Hanuman Chalisa, Shiv Tandav Stotram, Achyutam Keshavam, and sacred morning chants.",
+    "coverUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "creator": "Spotify",
+    "trackIds": [
+      "t27",
+      "t28",
+      "t29",
+      "t30",
+      "t31",
+      "t32",
+      "t33"
+    ],
+    "dominantColor": "#d97706"
+  },
+  {
+    "id": "p7",
+    "title": "✨ AI DJ: Desi Workout Mashup",
+    "description": "AI-curated mix blending high-BPM gym beats with Punjabi and Haryanvi adrenaline anthems.",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=400&fit=crop",
+    "creator": "AI DJ",
+    "trackIds": [
+      "t7",
+      "t14",
+      "t19",
+      "t23",
+      "t36",
+      "t12"
+    ],
+    "dominantColor": "#10b981"
+  },
+  {
+    "id": "p8",
+    "title": "✨ AI DJ: Soulful Morning & Bhakti Chants",
+    "description": "AI peaceful morning routine combining Hanuman Chalisa, Shiv Tandav, and acoustic Arijit melodies.",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=400&fit=crop",
+    "creator": "AI DJ",
+    "trackIds": [
+      "t27",
+      "t28",
+      "t31",
+      "t1",
+      "t30",
+      "t4"
+    ],
+    "dominantColor": "#6366f1"
+  }
+]

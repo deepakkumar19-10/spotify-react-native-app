@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "t1",
+    "title": "Kesariya (Bhairava Mix)",
+    "artist": "Arijit Singh & Pritam",
+    "artistId": "ar1",
+    "album": "Brahmāstra & Romantic Hits",
+    "albumId": "al1",
+    "duration": 268,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&h=400&fit=crop",
+    "dominantColor": "#b45309",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "केसरिया तेरा इश्क़ है पिया"
+      },
+      {
+        "time": 14,
+        "text": "रंग जाऊं जो मैं हाथ लगाऊं"
+      },
+      {
+        "time": 28,
+        "text": "दिन बीते सारा तेरी फ़िक्र में"
+      },
+      {
+        "time": 42,
+        "text": "रैन सारी तेरी खैर मनाऊं"
+      },
+      {
+        "time": 60,
+        "text": "पतझड़ के मौसम में भी रंग खिले"
+      },
+      {
+        "time": 82,
+        "text": "जब से तू मेरे हमसफ़र मिले"
+      },
+      {
+        "time": 104,
+        "text": "केसरिया तेरा इश्क़ है पिया..."
+      }
+    ]
+  },
+  {
+    "id": "t2",
+    "title": "Tum Hi Ho (Soul Acoustic)",
+    "artist": "Arijit Singh",
+    "artistId": "ar1",
+    "album": "Brahmāstra & Romantic Hits",
+    "albumId": "al1",
+    "duration": 262,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=400&fit=crop",
+    "dominantColor": "#9a3412",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "हम तेरे बिन अब रह नहीं सकते"
+      },
+      {
+        "time": 15,
+        "text": "तेरे बिना क्या वजूद मेरा"
+      },
+      {
+        "time": 32,
+        "text": "तुझसे जुदा गर हो जाएंगे"
+      },
+      {
+        "time": 48,
+        "text": "तो खुद से ही हो जाएंगे जुदा"
+      },
+      {
+        "time": 66,
+        "text": "क्योंकि तुम ही हो, अब तुम ही हो"
+      },
+      {
+        "time": 85,
+        "text": "ज़िन्दगी अब तुम ही हो"
+      }
+    ]
+  },
+  {
+    "id": "t3",
+    "title": "Apna Bana Le",
+    "artist": "Arijit Singh & Sachin-Jigar",
+    "artistId": "ar1",
+    "album": "Brahmāstra & Romantic Hits",
+    "albumId": "al1",
+    "duration": 258,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=400&h=400&fit=crop",
+    "dominantColor": "#be185d",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "तू मेरा कोई ना होके भी कुछ लागे"
+      },
+      {
+        "time": 16,
+        "text": "किया रे जो भी तूने दिल के आगे"
+      },
+      {
+        "time": 35,
+        "text": "अपना बना ले पिया, अपना बना ले पिया"
+      },
+      {
+        "time": 55,
+        "text": "दिल के नगर में घर बसा ले पिया"
+      }
+    ]
+  },
+  {
+    "id": "t4",
+    "title": "Channa Mereya (Acoustic Unplugged)",
+    "artist": "Arijit Singh",
+    "artistId": "ar1",
+    "album": "Brahmāstra & Romantic Hits",
+    "albumId": "al1",
+    "duration": 289,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
+    "dominantColor": "#4338ca",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "अच्छा चलता हूँ, दुआओं में याद रखना"
+      },
+      {
+        "time": 18,
+        "text": "मेरे ज़िक्र का ज़ुबां पे स्वाद रखना"
+      },
+      {
+        "time": 36,
+        "text": "अंधेरा तेरा मैंने ले लिया"
+      },
+      {
+        "time": 54,
+        "text": "मेरा उजला सितारा तेरे नाम किया"
+      },
+      {
+        "time": 75,
+        "text": "ओ चन्ना मेरेया मेरेया, चन्ना मेरेया!"
+      }
+    ]
+  },
+  {
+    "id": "t5",
+    "title": "Raataan Lambiyan",
+    "artist": "Jubin Nautiyal & Asees Kaur",
+    "artistId": "ar1",
+    "album": "Brahmāstra & Romantic Hits",
+    "albumId": "al1",
+    "duration": 230,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400&h=400&fit=crop",
+    "dominantColor": "#047857",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "तेरी मेरी गल्लां होगी मशहूर"
+      },
+      {
+        "time": 14,
+        "text": "कर ना कभी तू मुझे नज़रों से दूर"
+      },
+      {
+        "time": 30,
+        "text": "काटूँ कैसे रातां ओ सांवरे?"
+      },
+      {
+        "time": 48,
+        "text": "रातां लम्बियां लम्बियां रे, कटे तेरे संगियां संगियां रे"
+      }
+    ]
+  },
+  {
+    "id": "t6",
+    "title": "Shayad (Soulful Reprise)",
+    "artist": "Arijit Singh & Pritam",
+    "artistId": "ar1",
+    "album": "Brahmāstra & Romantic Hits",
+    "albumId": "al1",
+    "duration": 247,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=400&h=400&fit=crop",
+    "dominantColor": "#0284c7",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "शायद कभी ना कह सकूँ मैं तुमको"
+      },
+      {
+        "time": 15,
+        "text": "कहे बिना समझ लो तुम शायद"
+      },
+      {
+        "time": 32,
+        "text": "शायद मेरे ख्याल में तुम एक दिन"
+      },
+      {
+        "time": 50,
+        "text": "मिलो मुझे कहीं पे गुम शायद"
+      }
+    ]
+  },
+  {
+    "id": "t7",
+    "title": "295 (Immortal Anthem)",
+    "artist": "Sidhu Moosewala",
+    "artistId": "ar2",
+    "album": "Moosetape Forever",
+    "albumId": "al2",
+    "duration": 270,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=400&fit=crop",
+    "dominantColor": "#1e3a8a",
+    "explicit": true,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Dass kithe karaan claim yaaran"
+      },
+      {
+        "time": 16,
+        "text": "Kithon labban shanti da samaan yaaran"
+      },
+      {
+        "time": 35,
+        "text": "Roz sunan nu mildi ik nayi virodhi dhara"
+      },
+      {
+        "time": 54,
+        "text": "Nitt controversy create kiti jandi ae"
+      },
+      {
+        "time": 76,
+        "text": "Dharman de na te kade jaatan de na te"
+      }
+    ]
+  },
+  {
+    "id": "t8",
+    "title": "Chorni (Club Bang)",
+    "artist": "Sidhu Moosewala & DIVINE",
+    "artistId": "ar2",
+    "album": "Moosetape Forever",
+    "albumId": "al2",
+    "duration": 215,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "dominantColor": "#b91c1c",
+    "explicit": true,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Aukaat vich rehne aan, par bolde na ghat"
+      },
+      {
+        "time": 15,
+        "text": "Gaddi kaali sheeshe kaale, sir utte hath"
+      },
+      {
+        "time": 34,
+        "text": "Bombay to Punjab, sidha connection"
+      },
+      {
+        "time": 52,
+        "text": "Chorni, tere piche saara shehar badnaam!"
+      }
+    ]
+  },
+  {
+    "id": "t9",
+    "title": "The Last Ride",
+    "artist": "Sidhu Moosewala",
+    "artistId": "ar2",
+    "album": "Moosetape Forever",
+    "albumId": "al2",
+    "duration": 260,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=400&fit=crop",
+    "dominantColor": "#18181b",
+    "explicit": true,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Ho chobbar de chehre utte noor dasda"
+      },
+      {
+        "time": 18,
+        "text": "Ni ehda uthuga jawani ch janaaza mithhiye"
+      },
+      {
+        "time": 38,
+        "text": "Lokan diyan akhan ch rhadakda gabru"
+      },
+      {
+        "time": 58,
+        "text": "Wazir wangu jatt da swag wakhra!"
+      }
+    ]
+  },
+  {
+    "id": "t10",
+    "title": "Levels (High Energy)",
+    "artist": "Sidhu Moosewala & Sunny Malton",
+    "artistId": "ar2",
+    "album": "Moosetape Forever",
+    "albumId": "al2",
+    "duration": 232,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "dominantColor": "#0284c7",
+    "explicit": true,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Ho khadku group da swag soniye"
+      },
+      {
+        "time": 16,
+        "text": "Tu match kar sakan na sadde levels nu!"
+      },
+      {
+        "time": 35,
+        "text": "Worldwide tour te sold out shows"
+      },
+      {
+        "time": 55,
+        "text": "Sidhu Moosewala name speaks for itself!"
+      }
+    ]
+  },
+  {
+    "id": "t11",
+    "title": "Lover (Coachella Vibes)",
+    "artist": "Diljit Dosanjh",
+    "artistId": "ar3",
+    "album": "MoonChild & G.O.A.T.",
+    "albumId": "al3",
+    "duration": 204,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&h=400&fit=crop",
+    "dominantColor": "#c2410c",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Tera ni main lover, koi hor labh le"
+      },
+      {
+        "time": 14,
+        "text": "Akhan vich akhan paa ke dil mang le"
+      },
+      {
+        "time": 30,
+        "text": "Mainu lagda tu rab di banayi moorat"
+      },
+      {
+        "time": 48,
+        "text": "Diljit Dosanjh on the beat!"
+      }
+    ]
+  },
+  {
+    "id": "t12",
+    "title": "G.O.A.T. (Stadium Anthem)",
+    "artist": "Diljit Dosanjh",
+    "artistId": "ar3",
+    "album": "MoonChild & G.O.A.T.",
+    "albumId": "al3",
+    "duration": 226,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    "dominantColor": "#b45309",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Diamonds on my wrist, pagg matching te tie"
+      },
+      {
+        "time": 16,
+        "text": "Lokan nu lagda gaddi slow chali par speed high"
+      },
+      {
+        "time": 35,
+        "text": "G.O.A.T. jatt kade jhukda ni kisse moore!"
+      }
+    ]
+  },
+  {
+    "id": "t13",
+    "title": "Born To Shine",
+    "artist": "Diljit Dosanjh",
+    "artistId": "ar3",
+    "album": "MoonChild & G.O.A.T.",
+    "albumId": "al3",
+    "duration": 212,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&h=400&fit=crop",
+    "dominantColor": "#059669",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Kade rukke na haunsle, kade chhadde na jazbe"
+      },
+      {
+        "time": 15,
+        "text": "Jihna ne kiti mehnat, ohi kende rab di mehar te"
+      },
+      {
+        "time": 32,
+        "text": "We were born to shine!"
+      }
+    ]
+  },
+  {
+    "id": "t14",
+    "title": "52 Gaj Ka Daman (Desi Folk)",
+    "artist": "Renuka Panwar",
+    "artistId": "ar4",
+    "album": "Haryanvi Dholak & Swag",
+    "albumId": "al4",
+    "duration": 200,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
+    "dominantColor": "#be185d",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "घूँघट की ओट में चमके रूप निराला"
+      },
+      {
+        "time": 16,
+        "text": "बावन गज का दामन पहर मटक के चालूँगी"
+      },
+      {
+        "time": 35,
+        "text": "गाँव गली के लोग लखावें"
+      },
+      {
+        "time": 54,
+        "text": "रेणुका पंवार का हरियाणवी धमाका!"
+      }
+    ]
+  },
+  {
+    "id": "t15",
+    "title": "Kothe Chad Lalkaru",
+    "artist": "Masoom Sharma",
+    "artistId": "ar5",
+    "album": "Haryanvi Dholak & Swag",
+    "albumId": "al4",
+    "duration": 224,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+    "dominantColor": "#047857",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "कोठे चढ़ ललकारूं मैं तो पूरा ज़िला हिला दूँ"
+      },
+      {
+        "time": 18,
+        "text": "मासूम शर्मा का देसी अंदाज"
+      },
+      {
+        "time": 38,
+        "text": "हरियाणा में गूंजे अपने बोल!"
+      }
+    ]
+  },
+  {
+    "id": "t16",
+    "title": "Chatak Matak",
+    "artist": "Renuka Panwar",
+    "artistId": "ar4",
+    "album": "Haryanvi Dholak & Swag",
+    "albumId": "al4",
+    "duration": 198,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&h=400&fit=crop",
+    "dominantColor": "#e11d48",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "चटक मटक के चालन लागे"
+      },
+      {
+        "time": 15,
+        "text": "झूमर झमके पायल बाजे"
+      },
+      {
+        "time": 32,
+        "text": "देसी ढोलक की थाप पे नाचे हरियाणा सारा!"
+      }
+    ]
+  },
+  {
+    "id": "t17",
+    "title": "Goli Chal Javegi",
+    "artist": "Masoom Sharma",
+    "artistId": "ar5",
+    "album": "Haryanvi Dholak & Swag",
+    "albumId": "al4",
+    "duration": 218,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop",
+    "dominantColor": "#4338ca",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "अरे बदमाशी की बात ना कर यार"
+      },
+      {
+        "time": 17,
+        "text": "गोली चाल जावेगी जब रोब दिखेगा"
+      },
+      {
+        "time": 36,
+        "text": "यारी अपनी जान से प्यारी!"
+      }
+    ]
+  },
+  {
+    "id": "t18",
+    "title": "Moto (Haryanvi Hit)",
+    "artist": "Diler Kharkiya & Renuka Panwar",
+    "artistId": "ar4",
+    "album": "Haryanvi Dholak & Swag",
+    "albumId": "al4",
+    "duration": 210,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&h=400&fit=crop",
+    "dominantColor": "#d97706",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "मेरी मोटो घणी नखरीली"
+      },
+      {
+        "time": 15,
+        "text": "चाल दिखावे चाल शर्मीली"
+      },
+      {
+        "time": 34,
+        "text": "सूट गुलाबी जचता उसपे पूरा!"
+      }
+    ]
+  },
+  {
+    "id": "t19",
+    "title": "Sprint Beast (165 BPM High Cadence)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Beast Mode Cardio 160 BPM",
+    "albumId": "al5",
+    "duration": 245,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=400&h=400&fit=crop",
+    "dominantColor": "#e11d48",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "[Running Cadence: 165 BPM Active]"
+      },
+      {
+        "time": 15,
+        "text": "Lock your breath, match the stride"
+      },
+      {
+        "time": 30,
+        "text": "No fatigue can stop your drive"
+      },
+      {
+        "time": 50,
+        "text": "Push through the burn, break through the wall!"
+      },
+      {
+        "time": 75,
+        "text": "Finish line in sight, sprint now!"
+      }
+    ]
+  },
+  {
+    "id": "t20",
+    "title": "Cardio Accelerator (160 BPM Continuous)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Beast Mode Cardio 160 BPM",
+    "albumId": "al5",
+    "duration": 255,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "dominantColor": "#f97316",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "[Treadmill Interval: 160 BPM]"
+      },
+      {
+        "time": 20,
+        "text": "Feel the pulse inside your chest"
+      },
+      {
+        "time": 45,
+        "text": "Better than yesterday, leave the rest"
+      },
+      {
+        "time": 70,
+        "text": "Every kilometer counts, keep moving!"
+      }
+    ]
+  },
+  {
+    "id": "t21",
+    "title": "Marathon Rhythm (158 BPM Steady Pace)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Beast Mode Cardio 160 BPM",
+    "albumId": "al5",
+    "duration": 275,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=400&h=400&fit=crop",
+    "dominantColor": "#0284c7",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "[Steady Marathon Pace]"
+      },
+      {
+        "time": 25,
+        "text": "Breathe in deep, exhale power"
+      },
+      {
+        "time": 55,
+        "text": "This is your golden training hour"
+      },
+      {
+        "time": 90,
+        "text": "Mile after mile, relentless speed!"
+      }
+    ]
+  },
+  {
+    "id": "t22",
+    "title": "HIIT Explosion (170 BPM Peak)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Beast Mode Cardio 160 BPM",
+    "albumId": "al5",
+    "duration": 230,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "dominantColor": "#9333ea",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "[HIIT Max Effort Interval]"
+      },
+      {
+        "time": 15,
+        "text": "3... 2... 1... MAXIMUM EFFORT!"
+      },
+      {
+        "time": 35,
+        "text": "Full throttle sprint, heart rate peak!"
+      },
+      {
+        "time": 60,
+        "text": "Recover for 10, then hit it again!"
+      }
+    ]
+  },
+  {
+    "id": "t23",
+    "title": "Unstoppable Mindset (Warrior Speech)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Unstoppable Motivation & Gym Drive",
+    "albumId": "al6",
+    "duration": 260,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "dominantColor": "#f97316",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Nobody is going to hand you success."
+      },
+      {
+        "time": 14,
+        "text": "You have to wake up hungry every single morning."
+      },
+      {
+        "time": 32,
+        "text": "When you feel like quitting, remember why you started."
+      },
+      {
+        "time": 54,
+        "text": "Pain is temporary. Pride lasts forever!"
+      },
+      {
+        "time": 80,
+        "text": "LIFT IT! PUSH IT! OWN THE WEIGHT!"
+      }
+    ]
+  },
+  {
+    "id": "t24",
+    "title": "Rise From The Ashes (Champion Drive)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Unstoppable Motivation & Gym Drive",
+    "albumId": "al6",
+    "duration": 245,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=400&h=400&fit=crop",
+    "dominantColor": "#e11d48",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "They said you couldn't do it."
+      },
+      {
+        "time": 18,
+        "text": "They doubted your discipline."
+      },
+      {
+        "time": 40,
+        "text": "Now prove them wrong in silence."
+      },
+      {
+        "time": 65,
+        "text": "Heavy iron, pure dedication!"
+      }
+    ]
+  },
+  {
+    "id": "t25",
+    "title": "Discipline Over Motivation (Iron Focus)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Unstoppable Motivation & Gym Drive",
+    "albumId": "al6",
+    "duration": 250,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=400&h=400&fit=crop",
+    "dominantColor": "#15803d",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Motivation gets you started."
+      },
+      {
+        "time": 16,
+        "text": "Discipline keeps you going when motivation fades."
+      },
+      {
+        "time": 38,
+        "text": "One more rep! One more set!"
+      },
+      {
+        "time": 62,
+        "text": "Greatness is built in the dark!"
+      }
+    ]
+  },
+  {
+    "id": "t26",
+    "title": "The Legacy Anthem (Heavy Bass)",
+    "artist": "Titan Beast Fuel",
+    "artistId": "ar8",
+    "album": "Unstoppable Motivation & Gym Drive",
+    "albumId": "al6",
+    "duration": 240,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1483721310020-03333e577078?w=400&h=400&fit=crop",
+    "dominantColor": "#4338ca",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Leave your mark on the world."
+      },
+      {
+        "time": 20,
+        "text": "Built with sweat, grit, and sacrifice."
+      },
+      {
+        "time": 48,
+        "text": "Unbreakable focus. Champion mindset!"
+      }
+    ]
+  },
+  {
+    "id": "t27",
+    "title": "Shree Hanuman Chalisa (Divine Dhun)",
+    "artist": "Hariharan & Gulshan Kumar",
+    "artistId": "ar7",
+    "album": "Shree Hanuman & Krishna Bhakti",
+    "albumId": "al7",
+    "duration": 380,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "dominantColor": "#d97706",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "श्रीगुरु चरन सरोज रज, निज मनु मुकुरु सुधारि"
+      },
+      {
+        "time": 18,
+        "text": "बरनऊं रघुबर बिमल जसु, जो दायकु फल चारि"
+      },
+      {
+        "time": 38,
+        "text": "बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार"
+      },
+      {
+        "time": 58,
+        "text": "बल बुद्धि बिद्या देहु मोहिं, हरहु कलेस बिकार"
+      },
+      {
+        "time": 82,
+        "text": "जय हनुमान ज्ञान गुन सागर, जय कपीस तिहुं लोक उजागर"
+      },
+      {
+        "time": 110,
+        "text": "रामदूत अतुलित बल धामा, अंजनि-पुत्र पवनसुत नामा"
+      },
+      {
+        "time": 140,
+        "text": "महाबीर बिक्रम बजरंगी, कुमति निवार सुमति के संगी"
+      }
+    ]
+  },
+  {
+    "id": "t28",
+    "title": "Shiv Tandav Stotram (Fierce Chants)",
+    "artist": "Shankar Mahadevan",
+    "artistId": "ar9",
+    "album": "Shiv Shakti Chants & Stotram",
+    "albumId": "al8",
+    "duration": 320,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=400&fit=crop",
+    "dominantColor": "#0284c7",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "जटाटवीगलज्जलप्रवाहपावितस्थले"
+      },
+      {
+        "time": 16,
+        "text": "गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्"
+      },
+      {
+        "time": 36,
+        "text": "डमड्डमड्डमड्डमन्निनादवड्डमर्वयं"
+      },
+      {
+        "time": 56,
+        "text": "चकार चण्डताण्डवं तनोतु नः शिवः शिवम्"
+      },
+      {
+        "time": 80,
+        "text": "हर हर महादेव! ॐ नमः शिवाय!"
+      }
+    ]
+  },
+  {
+    "id": "t29",
+    "title": "Achyutam Keshavam (Peaceful Bhakti)",
+    "artist": "Hariharan & Anuradha",
+    "artistId": "ar7",
+    "album": "Shree Hanuman & Krishna Bhakti",
+    "albumId": "al7",
+    "duration": 290,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "dominantColor": "#059669",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "अच्युतं केशवं कृष्ण दामोदरं"
+      },
+      {
+        "time": 18,
+        "text": "राम नारायणं जानकी वल्लभम्"
+      },
+      {
+        "time": 38,
+        "text": "कौन कहते हैं भगवान आते नहीं"
+      },
+      {
+        "time": 58,
+        "text": "तुम मीरा के जैसे बुलाते नहीं"
+      },
+      {
+        "time": 82,
+        "text": "अच्युतं केशवं कृष्ण दामोदरं..."
+      }
+    ]
+  },
+  {
+    "id": "t30",
+    "title": "Maha Mrityunjaya Mantra (108 Japa)",
+    "artist": "Hariharan & Anuradha",
+    "artistId": "ar7",
+    "album": "Shree Hanuman & Krishna Bhakti",
+    "albumId": "al7",
+    "duration": 340,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=400&fit=crop",
+    "dominantColor": "#7c3aed",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्"
+      },
+      {
+        "time": 20,
+        "text": "उर्वारुकमिव बन्धनान् मृत्योर्मुक्षीय मामृतात्"
+      },
+      {
+        "time": 45,
+        "text": "ॐ नमः शिवाय, हर हर शम्भू!"
+      }
+    ]
+  },
+  {
+    "id": "t31",
+    "title": "Om Jai Jagdish Hare (Sampurna Aarti)",
+    "artist": "Anuradha Paudwal",
+    "artistId": "ar7",
+    "album": "Shiv Shakti Chants & Stotram",
+    "albumId": "al8",
+    "duration": 310,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "dominantColor": "#d97706",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे"
+      },
+      {
+        "time": 18,
+        "text": "भक्त जनों के संकट दास जनों के संकट"
+      },
+      {
+        "time": 38,
+        "text": "क्षण में दूर करे, ॐ जय जगदीश हरे!"
+      },
+      {
+        "time": 60,
+        "text": "जो ध्यावे फल पावे, दुःख बिनसे मन का"
+      }
+    ]
+  },
+  {
+    "id": "t32",
+    "title": "Karpura Gauram Karunavataram",
+    "artist": "Shankar Mahadevan",
+    "artistId": "ar9",
+    "album": "Shiv Shakti Chants & Stotram",
+    "albumId": "al8",
+    "duration": 260,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=400&fit=crop",
+    "dominantColor": "#0284c7",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "कर्पूरगौरं करुणावतारं संसारसारम्"
+      },
+      {
+        "time": 18,
+        "text": "भुजगेन्द्रहारम् सदावसन्तं हृदयारविन्दे"
+      },
+      {
+        "time": 38,
+        "text": "भवं भवानीसहितं नमामि"
+      }
+    ]
+  },
+  {
+    "id": "t33",
+    "title": "Radhe Radhe Govinda (Vrindavan Dhun)",
+    "artist": "Hariharan",
+    "artistId": "ar7",
+    "album": "Shiv Shakti Chants & Stotram",
+    "albumId": "al8",
+    "duration": 285,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1609619385002-f40f1df9b7eb?w=400&h=400&fit=crop",
+    "dominantColor": "#10b981",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "राधे राधे गोविन्द गोपाल राधे"
+      },
+      {
+        "time": 18,
+        "text": "श्री बांके बिहारी नन्दलाल राधे"
+      },
+      {
+        "time": 40,
+        "text": "वृन्दावन के कण-कण में बसे हैं कन्हैया"
+      }
+    ]
+  },
+  {
+    "id": "t34",
+    "title": "Brown Munde",
+    "artist": "AP Dhillon, Gurinder Gill, Shinda Kahlon",
+    "artistId": "ar6",
+    "album": "Brown Munde Chronicles",
+    "albumId": "al9",
+    "duration": 265,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&h=400&fit=crop",
+    "dominantColor": "#4338ca",
+    "explicit": true,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Desi je geet aa trapan di beat aa"
+      },
+      {
+        "time": 18,
+        "text": "Sir kadd gajde brown munde"
+      },
+      {
+        "time": 38,
+        "text": "Putt jattan de shonki caran de"
+      },
+      {
+        "time": 58,
+        "text": "Brown Munde!"
+      }
+    ]
+  },
+  {
+    "id": "t35",
+    "title": "Excuses",
+    "artist": "AP Dhillon & Intense",
+    "artistId": "ar6",
+    "album": "Brown Munde Chronicles",
+    "albumId": "al9",
+    "duration": 218,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=400&h=400&fit=crop",
+    "dominantColor": "#6366f1",
+    "explicit": false,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Kehndi hundi si chan tak raah bana de"
+      },
+      {
+        "time": 16,
+        "text": "Taare ne pasand mainu hethaan saare laa de"
+      },
+      {
+        "time": 36,
+        "text": "Ohna taareyan de vich jad mainu vekhegi"
+      }
+    ]
+  },
+  {
+    "id": "t36",
+    "title": "Softly (Making Memories)",
+    "artist": "Karan Aujla & Ikky",
+    "artistId": "ar10",
+    "album": "Making Memories & Winning Speech",
+    "albumId": "al10",
+    "duration": 220,
+    "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "coverUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400&h=400&fit=crop",
+    "dominantColor": "#7c3aed",
+    "explicit": true,
+    "lyrics": [
+      {
+        "time": 0,
+        "text": "Gaddi vich baith ke tu lagdi kamaal"
+      },
+      {
+        "time": 16,
+        "text": "Aujla ni aujla kare jadon vaar"
+      },
+      {
+        "time": 35,
+        "text": "Move your body softly to the beat!"
+      }
+    ]
+  }
+]
